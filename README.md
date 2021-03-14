@@ -17,7 +17,7 @@ License for this app is : MIT
     mysql, and inquirer
 
 ## Demo:
-    ![Database Schema](employee-tracker.png)
+![Demo Picture](employee-tracker.png)
 
 ## License:
     For information about the license, click the link below.
